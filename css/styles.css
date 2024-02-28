@@ -1,0 +1,41 @@
+body {
+    background-color: beige;
+    font-family: raleway;
+    margin: auto;
+    max-width: 400px;
+
+}
+
+img {
+    max-width: 400px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+p {
+    background-color: #568d170b;
+    border: 2px solid #568d173b;
+    border-radius: 20px;
+    padding: 14px;
+    color: #636363;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: #568d17;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+
+}
+
+h2 {
+    color: #568d176e;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
